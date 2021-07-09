@@ -1,2 +1,2 @@
 # lilac
-A biblical refrence tool
+A biblical reference tool
